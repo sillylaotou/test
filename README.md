@@ -7,4 +7,10 @@ hello world !!!
 
 2
 
+<<<<<<< HEAD
 on my master
+=======
+git status
+
+on master
+>>>>>>> feature1
